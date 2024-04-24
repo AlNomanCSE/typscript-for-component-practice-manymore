@@ -38,12 +38,11 @@ type Inputs = {
 };
 
 export default function App() {
-  const form = useForm<Inputs>();
   const {
     register,
     handleSubmit,
     formState: { errors },
-  } = form;
+  } = useForm<Inputs>();
 
   const onSubmit: SubmitHandler<Inputs> = (data: Inputs) => console.log(data);
 
