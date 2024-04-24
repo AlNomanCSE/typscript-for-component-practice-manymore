@@ -88,3 +88,15 @@ For More : [React-hook-form](https://react-hook-form.com/)
 </br>
 
 Simple form validation with React Hook Form.
+
+
+I am writing to express my interest in the Junior Full Stack Developer position at your esteemed organization, as advertised. With a Bachelor's degree in Computer Science and Engineering from the National Institute of Technology Rourkela, coupled with hands-on experience in web development and machine learning, I am excited about the opportunity to contribute to your innovative team.
+
+During my tenure as a Machine Learning Intern at 1Stop, I honed my problem-solving skills and gained valuable experience in developing practical solutions. My proficiency in JavaScript, React.js, Node.js, and MongoDB, showcased through projects like the Polyglot Translator and Food Ordering Website, aligns well with the requirements of the role.
+
+I am particularly drawn to the collaborative environment and learning opportunities your company offers, and I am eager to contribute my skills to help drive forward your web development initiatives.
+
+Thank you for considering my application. I look forward to the possibility of discussing how I can contribute to your team.
+
+Warm regards,
+Abdullah Al Noman
